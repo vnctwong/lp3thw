@@ -1,5 +1,5 @@
-# print("i am 6'2\" tall.")
-# print("i am 6'2\" tall.")
+print("i am 6'2\" tall.")
+print("i am 6'2\" tall.")
 
 fat_cat = """
 I do list:
