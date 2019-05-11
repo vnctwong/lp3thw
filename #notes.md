@@ -47,3 +47,6 @@
 
 # functions
   def to define fnc
+
+# return
+  works same as JS
