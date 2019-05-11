@@ -34,5 +34,14 @@
   open(filename) opens given URI resource
   print(open(filename).read()) prints contents of URI
 
-
+# py commands
+  - close
+    like file -> save..
+  - read
+    reads contents of file, can assign to var
+  - readline
+  - truncate
+  - write("str")
+  - seek
+    Move the read/write location to the beginning of the file.
 
