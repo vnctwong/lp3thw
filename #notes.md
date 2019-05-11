@@ -45,3 +45,5 @@
   - seek
     Move the read/write location to the beginning of the file.
 
+# functions
+  def to define fnc
