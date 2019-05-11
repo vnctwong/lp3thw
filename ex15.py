@@ -1,5 +1,6 @@
 from sys import argv
 
+# use ex15_sample.txt
 script, filename = argv
 # txt is a variable
 txt = open(filename)
