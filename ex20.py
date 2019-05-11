@@ -2,7 +2,7 @@ from sys import argv
 
 script, input_file = argv
 
-
+# f is sys var?
 def print_all(f):
     print(f.read())
 
